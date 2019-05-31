@@ -1,0 +1,6 @@
+
+._movies.ser
+.classpath
+bin/pkg/
+*.prefs
+.project
